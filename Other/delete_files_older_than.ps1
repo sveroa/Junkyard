@@ -1,4 +1,4 @@
-﻿# Delete all Files in C:\temp older than 90 day(s)
+﻿# Delete all Files in C:\temp older than 7 day(s)
 $Path = "C:\logging"
 $Daysback = "-7"
 
